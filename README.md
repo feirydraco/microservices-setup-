@@ -167,7 +167,7 @@ $(minikube ip):31172
 	The Kong Ingress Controller will be running on `${PROXY_IP}:${HTTP_PORT}`
 	
 # Deployement of an example function
-The following steps show how to create a sample python function and deploy it on kubeless. It also shows how to add and access it using Kong.
+The following steps show how to create a sample python function and deploy it on kubeless.
 
 1. Create a sample function you need to be deployed. Let's take an example `test.py`.
 
